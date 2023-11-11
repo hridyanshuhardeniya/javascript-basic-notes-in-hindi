@@ -1,0 +1,33 @@
+javascript notes   
+  Learns whats matter
+Word vs keyboard 
+Word that cant understand by complier.
+Eg - chacha 
+For :- its keyboard (that can understand  by complier )
+
+Eg for, if,var,let,const,else 
+They have some meaning in js  
+
+Variables and constants 
+
+Containers that store data is said as variables 
+
+Code mein koi bhi data store krne  ke liye jiska ude hota hain use khete h variables
+
+Var :-  it can changge
+Const:- it cannot change(creates constant)
+Let:- it is block scope 
+
+Hoisting  
+- variable and functions are hoisted which means there declaration is moved on the top of the code.
+
+Types in js
+Primitives = number,string,bull,undefined, boolean 
+Reference = (),{},[]
+
+Aisi koi bhi value jisko copy karne par real copy nhi hota, balki us main value ka reference pass hojata hai, use hum reference value kehte hai,aur jiska copy krne me real copy ho gaye wo primitive  type value hota hai 
+
+Conditonals statements
+// If ,else,else if 
+
+Jabhi bhi bat agar magar par ayegi, yaa fir baat ayegi aisa hua to ye k
